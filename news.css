@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: black;
+    color: white;
+    height: 100px;
+    
+}
+ul{
+    padding: 23px;
+    text-align: end;
+    
+}
+ li{
+    font-size: 40px;
+    font-style: bold;
+    
+    display: inline;
+    padding: 30px;
+    justify-content: end;
+}

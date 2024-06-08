@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(93, 6, 151);
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+
+
+}
